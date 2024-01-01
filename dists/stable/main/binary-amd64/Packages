@@ -1,0 +1,14 @@
+Package: kinet
+Version: 1.0
+Architecture: amd64
+Maintainer: patiladitya1309@gmail.com
+Depends: libncurses6
+Filename: pool/main/kinet_1.0_amd64.deb
+Size: 4250
+MD5sum: fc60dfcba86d3ac2e0364c9beb77553f
+SHA1: d1e438cd8404eb12797d70c47deef389b25a6f51
+SHA256: f98b630cf8701e3ed288b848e72e4d58a83be3b1d5e507b2f9f45137802f8a15
+Priority: optional
+Homepage: https://github.com/maker-ATOM/kinet
+Description: Kinetic Art displayed on terminal itself using ncurses.
+

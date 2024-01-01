@@ -1,0 +1,14 @@
+Origin: Aditya Patil
+Suite: stable
+Codename: stable
+Version: 1.0
+Architectures: amd64
+Components: main
+Description: APT repository
+Date: Mon, 01 Jan 2024 05:05:58 +0000
+MD5Sum:
+ 998c99fd1d088c5e4e61f8469f746f50 454 main/binary-amd64/Packages
+SHA1:
+ 3c8a22919240bc587981ffd530268bb394d14d7d 454 main/binary-amd64/Packages
+SHA256:
+ 5631b6dba48b9f449d7558415c3ee55949916453878999e8c3a7937b8f3fb868 454 main/binary-amd64/Packages
