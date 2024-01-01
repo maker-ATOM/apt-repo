@@ -11,6 +11,7 @@ echo "deb https://maker-atom.github.io/apt-repo stable main" | sudo tee /etc/apt
 
 sudo apt update
 ```
+
 ### Usage
 
 ```
@@ -18,3 +19,7 @@ sudo apt install kinet
 ```
 
 ### Remove
+
+```
+sudo apt remove kinet
+```
