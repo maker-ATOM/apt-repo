@@ -4,30 +4,30 @@ Hash: SHA512
 Origin: Aditya Patil
 Suite: stable
 Codename: stable
-Version: 1.0
+Version: 1.1
 Architectures: amd64
 Components: main
 Description: APT repository
-Date: Mon, 01 Jan 2024 05:05:58 +0000
+Date: Tue, 02 Jan 2024 17:46:30 +0000
 MD5Sum:
- 998c99fd1d088c5e4e61f8469f746f50 454 main/binary-amd64/Packages
+ 966ba466a150218051a515139c8aeb1e 448 main/binary-amd64/Packages
 SHA1:
- 3c8a22919240bc587981ffd530268bb394d14d7d 454 main/binary-amd64/Packages
+ 00300d367b3784940d083739e87deeec0f9234e0 448 main/binary-amd64/Packages
 SHA256:
- 5631b6dba48b9f449d7558415c3ee55949916453878999e8c3a7937b8f3fb868 454 main/binary-amd64/Packages
+ 5926af2eacf635ca53276447f19ad909b45772b4d00b9b8f146fd1f238012bc7 448 main/binary-amd64/Packages
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE7TvYWS8LjfMj9yKw0oCV/zj9kUwFAmWSlxQACgkQ0oCV/zj9
-kUz8VhAAjzevofrNkvBTW6rjlAO6YEIKnURKgYY3um3O9bpzqujVz/VBSpGY3rlF
-HhvD0fTNnzA09PBw+wr4s3cJDpmK4jBykeVCDDPk/a0qhwI4XuFFsHft4ZKdNk3Z
-aUZ0SVe0xqr13UKPKXvxdUs+58KCv5QgZ37ODkvyJohfHtWTKa8vlXAn3bXuod14
-foPukHuyxItv2BsYzQTRJ7B7CZFWsxtrcl0LTS42yVmLY+rkx+yc8CvLzJJD7Sj/
-CoT3mmtK+OyeiVgwCgTmLG4tw2ns+pT3H7vFhb6zLPA1UBVV7X9f0XbBxUcWQPVa
-m4ziMLgoNWMqcLB0AOrah9uPT+t1AZQiuxn5Ev6o1Sv12dtX4lK/1/ctnFPJZGN3
-z3K4zMe1CfMNgMpdijdwIoDsez/dRQQDoqe4Jx3Er+Kx++tWkOW+qYmmRNKVBw1h
-ydUs1GR+5X+OIOiVWPusgFe4DGX7nOeU0OsUGkrhxYI00mg7xhtXXG8GKXsHYowL
-RA89H1W5qohNf9ubzZE9kfNE/1McLx3L8mqZGnMH0O3TKOQHHh/wmCKAQnbokWgl
-s5s/GnV9Ul3O8VSZRD0JdUh3nJ2TVH5JGvtSg0xZa+uII7iV6A73eCSUVTw6zaGe
-tiME0DrAzfhAASmPVb0zMs77upSykP50c1qpCqX6YSn8nglVjkc=
-=rBW3
+iQIzBAEBCgAdFiEE7TvYWS8LjfMj9yKw0oCV/zj9kUwFAmWUTHkACgkQ0oCV/zj9
+kUyK2hAAjYkS5dmmouCKDXxt4bFR1XmHMDbamcE3V93OACDPc6TfBquXqJcjxAnU
+UMaLeqUyh6pZRJCdVJV4cLWBIdqlGNfTUnsMg1XoTBRWbXnTT4vFWm5nT/fVCsQn
+Uhx3jXing3N7lbHk+5EJ+ZMHmIMCAKs0a6vu/JCuau2roXyX+qVEAUxn1gXYQ2r9
+UBHsVFoXjffyi4qXkSeCytuZmS1Jus2lgApZWhP4+11UF90k6ZXlhvftHimtrJNW
+EBlamoKgij85buutkP0YxtK2hwv7h/jaMeqGujavkwABvGlf6KGRxKalMAaE6Q6W
+CYOkNtMq3cyQSiR+0OpK7/jsVtCChP6Wpr/4k3Xk5dURVkqEQMD0KXB8FojfNn9E
+c9f+zNycmO4eMrE6M2gierDq0C3oF8VoDZMhBp8nY6kzU8Y8jazwGq8ZNFMR9CTM
+b5gfZsr5NsR7X84yqvsURUnfHapwl9HBXmMfqNa8Gi0MixnG3ILYl1qANPsYROGa
+l83ZrprdiLwigPYZdlQNP7xYsoTnaZ206eIWd8F3ptQwwF7wUzLL54FF2Zpxyaft
+cf7isgQG6LPQ+c6rhffWUwk/oIiLEf/CXelEw3aaMGNiG8NCWiX50LGKguoFw7Z9
+Rc2/4j4pjobbPASyPMlSRfj730EviNjdqf2ZnDrkeNLx2yOGUq0=
+=TRkN
 -----END PGP SIGNATURE-----
